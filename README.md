@@ -1,5 +1,3 @@
-![logo](https://github.com/Techworld-Josh/Techworld-Josh/blob/main/Github%20Banner.png)
-
 <h1 align="center">Hi 👋, I'm Techworld Josh</h1>
 <h3 align="center">A passionate Software Full Stack Development from India</h3>
 
